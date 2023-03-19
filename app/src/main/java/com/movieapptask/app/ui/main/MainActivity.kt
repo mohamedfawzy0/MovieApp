@@ -38,7 +38,6 @@ class MainActivity : AppCompatActivity() {
         setUpObservers()
         setUpListeners()
     }
-
     private fun initView() {
         setSupportActionBar(binding.toolbar.toolbar)
         binding.toolbar.title = getString(R.string.movies)

@@ -30,7 +30,6 @@ class MainActivity : AppCompatActivity() {
     private val categoryAdapter: CategoryAdapter by lazy { CategoryAdapter(this, categoryList) }
     private var movieList = mutableListOf<MoviesModel.Movie>()
     private val movieAdapter: MovieAdapter by lazy { MovieAdapter(movieList) }
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = DataBindingUtil.setContentView(this, R.layout.activity_main)

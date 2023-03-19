@@ -10,7 +10,7 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import com.bumptech.glide.Glide
 import com.google.android.material.snackbar.Snackbar
 import com.movieapptask.R
-import com.movieapptask.adapter.GenreAdapter
+import com.movieapptask.app.adapter.GenreAdapter
 import com.movieapptask.app.ui.main.MoviesViewModel
 import com.movieapptask.app.utils.Constants
 import com.movieapptask.databinding.ActivityMovieDetailsBinding

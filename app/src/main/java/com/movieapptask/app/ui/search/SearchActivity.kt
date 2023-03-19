@@ -10,7 +10,7 @@ import androidx.databinding.DataBindingUtil
 import androidx.recyclerview.widget.GridLayoutManager
 import com.google.android.material.snackbar.Snackbar
 import com.movieapptask.R
-import com.movieapptask.adapter.MovieAdapter
+import com.movieapptask.app.adapter.MovieAdapter
 import com.movieapptask.app.ui.main.MoviesViewModel
 import com.movieapptask.databinding.ActivitySearchBinding
 import com.movieapptask.domain.model.response.MoviesModel

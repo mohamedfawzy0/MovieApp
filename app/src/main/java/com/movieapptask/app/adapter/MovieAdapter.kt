@@ -1,4 +1,4 @@
-package com.movieapptask.adapter
+package com.movieapptask.app.adapter
 
 import android.content.Intent
 import android.view.LayoutInflater

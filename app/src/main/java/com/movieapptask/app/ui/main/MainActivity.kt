@@ -12,8 +12,8 @@ import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.google.android.material.snackbar.Snackbar
 import com.movieapptask.R
-import com.movieapptask.adapter.CategoryAdapter
-import com.movieapptask.adapter.MovieAdapter
+import com.movieapptask.app.adapter.CategoryAdapter
+import com.movieapptask.app.adapter.MovieAdapter
 import com.movieapptask.app.ui.favourite.FavouriteActivity
 import com.movieapptask.app.ui.search.SearchActivity
 import com.movieapptask.databinding.ActivityMainBinding
